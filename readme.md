@@ -1,1 +1,2 @@
-# this is backend yt project
+# Backend for youtube
+-development stage
